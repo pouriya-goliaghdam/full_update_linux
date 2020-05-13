@@ -1,0 +1,35 @@
+### writer = pouriya goliaghdam
+### country = IRAN
+### mail = pouriya.goliaghdam@protonmail.com
+### bug_report = pouriya.goliaghdam@protonmail.com
+### 1399/02/21
+### 2020/04/10
+### A program to fully update the debian base Linux systems without any argument or help
+###
+###
+###
+###
+###
+### Just run the program :)
+###
+###
+###
+###
+###
+### Program method:
+###
+### 1)- chmod +x install.sh
+### 2)- ./install.sh
+### 3)- chmod +x update.sh
+### 4)- ./update.sh
+###
+###
+### 5)- chmod +x uninstall.sh
+### 6)- ./uninstall.sh         (*** Delete the program if you want ***)
+
+
+
+### * You can run the program without installation *
+### chmod +x update.sh
+### ./update.sh 
+### * Installation is just to put the program as the main program of the system (menu) *

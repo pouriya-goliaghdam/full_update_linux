@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Update
+Exec=gnome-terminal -t "Updater" --geometry=600x630 -e "bash -c '/opt/update/update.sh';-bash"
+Icon=/opt/update/UPDATE.png
+Terminal=true
+Type=Application
+StartupNotify=false
